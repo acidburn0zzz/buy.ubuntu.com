@@ -1,11 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="2" viewBox="0 0 16 2">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #181818;
-        opacity: 0.32;
-      }
-    </style>
-  </defs>
-  <rect id="Minus" class="cls-1" width="16" height="2"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="2" viewBox="0 0 16 2"><defs><style>.cls-1{fill:#181818;opacity:.32}</style></defs><rect id="Minus" width="16" height="2" class="cls-1"/></svg>
