@@ -34,6 +34,6 @@
     "uglify-js": "3.10.0"
   },
   "devDependencies": {
-    "@shopify/slate-tools": "0.14.0"
+    "@shopify/slate-tools": "1.0.0-beta.19"
   }
 }
